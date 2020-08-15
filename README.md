@@ -1,2 +1,2 @@
-# e-commerce-vanilla-js
-E-commerce Shopping Cart Fuctions
+# First, you need a server to run this project
+A server like WampServer or Xampp will work just fine.
