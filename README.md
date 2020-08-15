@@ -1,2 +1,2 @@
 # e-commerce-vanilla-js
-E-commerce Shopping Cart Only
+E-commerce Shopping Cart Fuctions
